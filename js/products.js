@@ -1,5 +1,5 @@
 // JENS ELECTRONICS public product catalogue. No secret credentials belong here.
-const WHATSAPP_NUMBER = ''; // Set your verified business number, e.g. 2547XXXXXXXX
+const WHATSAPP_NUMBER = '254735691176'; // Set your verified business number, e.g. 2547XXXXXXXX
 const categories=['All','Phones','Televisions','Audio','Accessories','Electrical','Repairs'];
 const grid=document.querySelector('#grid'),filters=document.querySelector('#filters'),search=document.querySelector('#search'),count=document.querySelector('#count'),empty=document.querySelector('#empty');
 let active='All', products=[];let galleries={};
